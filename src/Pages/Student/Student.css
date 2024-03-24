@@ -1,0 +1,13 @@
+.natija-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+    font-size: 40px;
+    margin-top: 30px;
+}
+
+.natija-title {
+    font-size: 30px;
+    text-align: center;
+}

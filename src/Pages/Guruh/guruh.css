@@ -1,0 +1,9 @@
+.back-link {
+    display: block;
+    margin: 20px;
+    font-size: 20px;
+    color: white;
+    text-shadow: 2px 2px 1px #000;
+    text-decoration: none;
+}
+
